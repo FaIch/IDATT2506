@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">oving_2</string>
+    <string name="title_activity_random_number">RandomNumberActivity</string>
+    <string name="adder">Adder</string>
+    <string name="multipliser">Multipliser</string>
+    <string name="svar">Svar: </string>
+    <string name="over_grense">Øvre grense: </string>
+    <string name="riktig">Riktig!</string>
+    <string name="feil">Feil. Riktig svar er: </string>
+</resources>
