@@ -28,9 +28,9 @@
             android:label="@string/app_name"
             android:theme="@style/Theme.Oving_2">
             <intent-filter>
-                <action android:name="android.intent.action.TaskOne" />
+                <action android:name="android.intent.action.MAIN" />
 
-                <category android:name="android.intent.category.DEFAULT" />
+                <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
         <activity
@@ -39,9 +39,9 @@
             android:label="@string/app_name"
             android:theme="@style/Theme.Oving_2">
             <intent-filter>
-                <action android:name="android.intent.action.MAIN" />
+                <action android:name="android.intent.action.TaskTwo" />
 
-                <category android:name="android.intent.category.LAUNCHER" />
+                <category android:name="android.intent.category.DEFAULT" />
             </intent-filter>
         </activity>
     </application>
